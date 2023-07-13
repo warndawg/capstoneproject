@@ -1,0 +1,11 @@
+{
+  "name": "capstoneproject",
+  "version": "1.0.0",
+  "description": "This project will hold the scripts needed for Render to build and run both the server and client apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
